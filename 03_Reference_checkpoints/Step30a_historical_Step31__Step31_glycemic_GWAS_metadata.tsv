@@ -1,0 +1,5 @@
+trait	accession	N	type	ncase	ncontrol	ancestry	source	s
+fasting_glucose	GCST90002232	200622	quant			European	MAGIC Chen 2021	
+fasting_insulin	GCST90002238	151013	quant			European	MAGIC Chen 2021	
+HbA1c	GCST90002244	146806	quant			European	MAGIC Chen 2021	
+T2D	GCST006867	655666	cc	61714	593952	Predominantly European	Xue 2018	0.0941241424749796

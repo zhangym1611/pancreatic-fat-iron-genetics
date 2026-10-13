@@ -1,0 +1,13 @@
+metric	value
+n_partition_loci	2495
+n_loci_with_local_h2_results_step25	1831
+n_candidate_loci_dual_nominal_h2_P_lt_0.05	20
+n_candidate_loci_reprocessed	20
+n_bivariate_local_rg_completed	20
+n_FDR_significant	1
+n_Bonferroni_tested_significant	1
+n_Bonferroni_2495_significant	0
+n_tested_outside_chr8	20
+n_FDR_significant_outside_chr8	1
+n_Bonferroni_tested_significant_outside_chr8	1
+n_tested_overlapping_known_chr8	0
